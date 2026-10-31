@@ -1,19 +1,18 @@
-# Apártalo — <nombre del negocio de tu variante>
+# Apártalo — Barbería Filo
 
-> Repositorio de la **Evidencia 1** de *Proyecto de ingeniería de software* (Tecmilenio, CRN 13241).
-> Sustituye todo lo que está entre `< >` y borra las líneas de ayuda que empiezan con `>`.
+Repositorio de la **Evidencia 1** de *Proyecto de ingeniería de software* (Tecmilenio, CRN 13241).
 
 | Dato | |
-|---|---|
-| Estudiante | `<tu nombre>` |
-| Matrícula | `<tu matrícula>` |
-| Variante | `<número y nombre, por ejemplo: 1 — Barbería Filo>` |
+| :--- | :--- |
+| Estudiante | Maximus Cristian Hernandez Garcia |
+| Matrícula | AL03007777 |
+| Variante | 1 — Barbería Filo |
 | Project (tablero) | `<enlace a tu GitHub Project>` |
 
 ## Visión del producto
-> 🎩 PO · Ejercicio 1, punto 1. De 3 a 5 líneas: qué es la app, para quién y qué problema resuelve.
 
-<tu visión>
+Apártalo - Barbería Filo es una solución web de gestión y apartado de citas diseñada para Don Rogelio y los clientes de su barbería tradicional en la colonia Narvarte. La plataforma centraliza la agenda de sus 3 sillas, automatiza las tarifas y promociones por servicios combinados o clientes frecuentes, y mitiga las pérdidas financieras por inasistencias de los sábados mediante una política clara y automatizada de cancelaciones.
+
 
 ## Mi equipo Scrum (los tres sombreros)
 
