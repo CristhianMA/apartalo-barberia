@@ -1,16 +1,16 @@
 Title	Status	Prioridad	Puntos	Sprint
-Épica: Pasarela de pagos en línea y cobro de anticipos	Historias	Won't		
-Épica: Exportación y sincronización de agenda operativa con software contable	Historias	Could		
+Épica: Pasarela de pagos en línea y cobro de anticipos	Historias	Won't	0	None
+Épica: Exportación y sincronización de agenda operativa con software contable	Historias	Could	0	None
 HU: Calcular costo individual de corte y barba	Liberación	Must	2	Sprint 1
 HU: Aplicar 15% de descuento por combo corte y barba	Liberación	Must	3	Sprint 1
 HU: Aplicar descuento de $20 a clientes frecuentes	Liberación	Must	3	Sprint 1
 HU: Cancelar cita con 24 horas o más de anticipación sin penalización	Liberación	Must	2	Sprint 1
 HU: Aplicar penalización del 50% por cancelación intermedia	Liberación	Must	3	Sprint 1
 HU: Cobrar el 100% por cancelación con menos de 2 horas o inasistencia	Liberación	Must	3	Sprint 1
-HU: Restringir a máximo 3 citas simultáneas por horario	Historias	Should	5	
-HU: Limitar a una sola cita por cliente al día	Historias	Should	3	
-HU: Botón accesible de RESERVAR en la interfaz principal	Historias	Should	2	
-HU: Consulta de agenda diaria para Don Rogelio	Historias	Could	3	
-HU: Asignación de silla y barbero a la cita	Historias	Could	3	
-HU: Generar reporte de insumos requeridos para el día siguiente	Historias	Could	3	
-HU: Reagendar cita con al menos 24 horas de anticipación	Historias	Should	3
+HU: Restringir a máximo 3 citas simultáneas por horario	Historias	Should	5	None
+HU: Limitar a una sola cita por cliente al día	Historias	Should	3	None
+HU: Botón accesible de RESERVAR en la interfaz principal	Historias	Should	2	None
+HU: Consulta de agenda diaria para Don Rogelio	Historias	Could	3	None
+HU: Asignación de silla y barbero a la cita	Historias	Could	3	None
+HU: Generar reporte de insumos requeridos para el día siguiente	Historias	Could	3	None
+HU: Reagendar cita con al menos 24 horas de anticipación	Historias	Should	3	None
