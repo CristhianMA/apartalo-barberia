@@ -3,24 +3,23 @@
 Repositorio de la **Evidencia 1** de *Proyecto de ingeniería de software* (Tecmilenio, CRN 13241).
 
 | Dato | |
-| :--- | :--- |
+|---|---|
 | Estudiante | Maximus Cristian Hernandez Garcia |
 | Matrícula | AL03007777 |
 | Variante | 1 — Barbería Filo |
-| Project (tablero) | `<enlace a tu GitHub Project>` |
+| Project (tablero) | [apartalo-barberia](https://github.com/users/CristhianMA/projects/1) |
 
 ## Visión del producto
 
 Apártalo - Barbería Filo es una solución web de gestión y apartado de citas diseñada para Don Rogelio y los clientes de su barbería tradicional en la colonia Narvarte. La plataforma centraliza la agenda de sus 3 sillas, automatiza las tarifas y promociones por servicios combinados o clientes frecuentes, y mitiga las pérdidas financieras por inasistencias de los sábados mediante una política clara y automatizada de cancelaciones.
 
-
 ## Mi equipo Scrum (los tres sombreros)
 
 | Sombrero | Lo que hago con él en este proyecto |
 |---|---|
-| 🎩 PO | `<...>` |
-| 🎩 SM | `<...>` |
-| 🎩 Desarrollador | `<...>` |
+| 🎩 PO | Defino la visión, priorizo el backlog (MoSCoW) y valido los criterios de aceptación con Don Rogelio. |
+| 🎩 SM | Configuro el tablero kanban, monitoreo límites WIP, facilito las ceremonias y resuelvo bloqueos. |
+| 🎩 Desarrollador | Implemento la lógica en Python (reglas.py) bajo TDD y construyo la suite de pruebas en pytest. |
 
 ## Cómo está organizado este repositorio
 
@@ -40,10 +39,9 @@ Apártalo - Barbería Filo es una solución web de gestión y apartado de citas 
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate        # En Windows: .venv\Scripts\activate
+source .venv/bin/activate       # En Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-pytest                           # todas las pruebas
-pytest -m aceptacion             # solo la suite de aceptación
-pytest -m unitaria               # solo las unitarias
-pytest -m rnf                    # solo las de requisitos no funcionales
-```
+pytest                          # todas las pruebas
+pytest -m aceptacion            # solo la suite de aceptación
+pytest -m unitaria              # solo las unitarias
+pytest -m rnf                   # solo las de requisitos no funcionales
